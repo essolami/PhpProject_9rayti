@@ -1,0 +1,19 @@
+// ---------------- 9rayti ------------------
+
+téchnologie utilisé : php - jquery - ajax 
+
+******* Pour le front-end je l'avais pris depuis google ******
+
+- l'idée c'est de créer un site d'orientation 
+
+- Le site y'a deux langue (arabe -anglais)
+
+- les articles sont parties depuis une base de donnés 
+
+- vous pouvez chercher une article depuis le title ou une tag ou par catégorie 
+
+- pour l'authentification y'a le user est l'admin 
+
+- pour le compte admin .... Apparaître une bouton pour ajouter un article
+
+- la base de donnés s'appel 9rayti.sql tu peux la trouver avec le dossier 
